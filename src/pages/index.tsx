@@ -23,10 +23,31 @@ export default function Home() {
         {/* Exemplo de seção */}
         <section className="my-16 w-full">
           <div className="max-w-3xl mx-auto">
-            <h2 className="text-3xl font-bold mb-4">Imagem aqui </h2>
+            <h2 className="text-3xl font-bold mb-4">Batalha da Alencastro</h2>
             <div className="flex items-center justify-center">
               <Image
-                src="/favicon.ico" // Substitua com o caminho da sua imagem
+                src="/bda.jpg" // Caminho da Img
+                alt="Descrição da imagem 1"
+                width={600}
+                height={400}
+                className="rounded-lg"
+              />
+            </div>
+            <p className="mt-4 text-lg text-center">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+              aliquet justo ut efficitur. Fusce eu erat nunc. Donec id dapibus
+              augue, ac scelerisque sem.
+            </p>
+          </div>
+
+          
+        </section> 
+        <section className="my-16 w-full">
+          <div className="max-w-3xl mx-auto">
+            <h3 className="text-3xl font-bold mb-4">Batalha da Alencastro</h3>
+            <div className="flex items-center justify-center">
+              <Image
+                src="/bda.jpg" // Caminho da Img Segundo local
                 alt="Descrição da imagem 1"
                 width={600}
                 height={400}

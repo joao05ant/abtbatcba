@@ -17,7 +17,7 @@ const Header = () => {
           line-height: 60px;
           text-align: left;
           color: #ffffff;
-          text-shadow: -1px 4px 4px rgb(255, 0, 0);
+          text-shadow: -1px 4px 4px rgb(147, 153, 184);
         }
 
         @media (max-width: 768px) {
