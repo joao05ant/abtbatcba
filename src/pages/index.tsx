@@ -23,7 +23,7 @@ export default function Home() {
         {/* Exemplo de seção */}
         <section className="my-16 w-full">
           <div className="max-w-3xl mx-auto">
-            <h2 className="text-3xl font-bold mb-4">Seção 1</h2>
+            <h2 className="text-3xl font-bold mb-4">Imagem aqui </h2>
             <div className="flex items-center justify-center">
               <Image
                 src="/favicon.ico" // Substitua com o caminho da sua imagem
