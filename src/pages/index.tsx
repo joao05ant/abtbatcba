@@ -20,7 +20,7 @@ export default function Home() {
         {/* Seção 1 */}
         <section className="my-16 w-full">
           <div className="max-w-3xl mx-auto">
-            <h2 className="text-3xl font-bold mb-4">Batalha da Alencastro</h2>
+            <h2 className="text-3xl font-bold mb-4 text-center">Batalha da Alencastro</h2>
             <div className="flex items-center justify-center">
               <Image
                 src="/bda.jpg" // Caminho da Img
